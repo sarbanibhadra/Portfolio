@@ -110,7 +110,7 @@ h2 {
 .position_bottom_right {
   position: relative;
   top: 150px;
-  left: 1100px;
+  left: 700px;
 }
 
 .position_centre_right {
@@ -120,9 +120,6 @@ h2 {
 
 }
 
-h3,
-h4,
-h5,
 h6 {
   margin: 0;
 }
